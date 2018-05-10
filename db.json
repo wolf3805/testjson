@@ -1,6 +1,11 @@
 {
-  
-        "label": "Bakersfield Central",
-        "value": "880000"
-   
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
